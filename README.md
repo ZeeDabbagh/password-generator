@@ -26,7 +26,7 @@ N/A
 Please refer to the LICENSE in the repo.
 ```
 ## Screenshot
-
+![deployedSS](./assets/deployedSS.png)
 ## Link to Deployed Web App
 https://zeedabbagh.github.io/password-generator/ 
 
