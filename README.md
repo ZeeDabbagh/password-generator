@@ -19,13 +19,14 @@ When all the prompts are answered correctly, a password will be generated that m
 
 ## Credits
 ```
+N/A
 ```
 ## License
 ```
 Please refer to the LICENSE in the repo.
 ```
 ## Screenshot
-![deployedSS](./assets/images/DeployedSS.png)
+![deployedSS](./assets/DeployedSS.png)
 ## Link to Deployed Web App
-https://zeedabbagh.github.io/password-generator 
+https://zeedabbagh.github.io/password-generator/ 
 
